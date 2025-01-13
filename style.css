@@ -1,0 +1,4 @@
+p{color: cornflowerblue;}
+
+.four-photos{display: flex; justify-content: flex-end; }
+img{max-width:200px; border-radius: 50%;}
