@@ -1,4 +1,5 @@
 p{color: cornflowerblue;}
 
-.four-photos{display: flex; justify-content: flex-end; }
-img{max-width:200px;}
+.four-photos{display: flex; justify-content: space-between; }
+img{max-width: 225px;}
+.mid-page-images{display:flex;justify-content: space-between;}
