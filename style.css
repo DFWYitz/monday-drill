@@ -3,3 +3,4 @@ p{color: cornflowerblue;}
 .four-photos{display: flex; justify-content: space-between; }
 img{max-width: 225px;}
 .mid-page-images{display:flex;justify-content: space-between;}
+.list{display: flex; justify-content:left}
